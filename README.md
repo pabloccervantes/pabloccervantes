@@ -23,9 +23,9 @@
 
 <div align="center">
   <a href="#" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=PabloCerv&show_icons=true&theme=vue-dark&border_radius=15&include_all_commits=true&hide=prs,issues,contribs&custom_title=Pablo%20Cervantes%20(GitHub%20Stats)" height="130">
+    <img src="https://github-readme-stats.vercel.app/api?username=PabloCerv&show_icons=true&theme=vue-dark&border_radius=15&include_all_commits=true&hide=prs,issues,contribs&custom_title=Pablo%20Cervantes%20(GitHub%20Stats)" height="110">
   </a>
   <a href="#" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCerv&layout=compact&theme=vue-dark&border_radius=15&langs_count=6" height="130">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCerv&layout=compact&theme=vue-dark&border_radius=15&langs_count=6" height="110">
   </a>
 </div>
