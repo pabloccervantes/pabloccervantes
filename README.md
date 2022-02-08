@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=PabloCerv&color=yellow&style=flat-square" height="20">
+    <img src="https://komarev.com/ghpvc/?username=pabloccervantes&color=yellow&style=flat-square" height="20">
   </a>
   <a href="https://www.linkedin.com/in/pabloccervantes/" target="_blank">
     <img src="https://img.shields.io/badge/-pabloccervantes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pabloccervantes/" height="20">
@@ -23,9 +23,9 @@
 
 <div align="center">
   <a href="#" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=PabloCerv&show_icons=true&theme=vue-dark&border_radius=15&include_all_commits=true&hide=prs,issues,contribs&custom_title=Pablo%20Cervantes%20(GitHub%20Stats)" height="110">
+    <img src="https://github-readme-stats.vercel.app/api?username=pabloccervantes&show_icons=true&theme=vue-dark&border_radius=15&include_all_commits=true&hide=prs,issues,contribs&custom_title=Pablo%20Cervantes%20(GitHub%20Stats)" height="110">
   </a>
   <a href="#" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCerv&layout=compact&theme=vue-dark&border_radius=15&langs_count=6" height="110">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloccervantes&layout=compact&theme=vue-dark&border_radius=15&langs_count=6" height="110">
   </a>
 </div>
